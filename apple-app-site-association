@@ -5,8 +5,8 @@
       {
         "appID": "5T843G9UCW.com.qapsula.qapsulaapp",
         "paths": [
-          "/doctor/",
-          "/profile/"
+          "*/doctor/",
+          "*/profile/"
         ]
       }
     ]
